@@ -57,7 +57,6 @@ PRODUCT_PACKAGES += \
 
 # From build/target/product/generic_no_telephony.mk
 PRODUCT_PACKAGES += \
-    Bluetooth \
     SystemUI \
     librs_jni \
     audio.primary.default \
